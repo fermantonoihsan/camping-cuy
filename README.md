@@ -5,7 +5,7 @@ Camping Cuy is an innovative app for nature lovers designed to make it easy to f
 # Our Design app
 [![figma](https://img.shields.io/badge/Figma-Our%20Design-success)]((https://www.figma.com/proto/aLVBN5ZYiQhvnvnqGDS69k/Camping-Cuy?page-id=0%3A1&type=design&node-id=1-55&viewport=300%2C323%2C0.5&t=v7dAYiuxGT8s8H1J-1&scaling=scale-down&starting-point-node-id=27%3A22&mode=design))
 ## Our Team
- Team ID : PH2-PS273
+ Team ID : CH2-PS273
  
  Team Member : 
 | Nama                   | Bangkit ID   | Learning Path      | GitHub/LinkedIn          |
